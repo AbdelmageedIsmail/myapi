@@ -1,9 +1,78 @@
 {
-  "posts": [
+  "vehicels": [
     {
       "id": 1,
-      "title": "hello"
+      "type": 1,
+      "plateNo":"kh 12345",
+      "regDate":"12-12-2019",
+      "fuelType":"1",
+      "status":"معتمدة",
+      "model":"فابيا"
+    },
+    
+        {
+      "id": 2,
+      "type": 1,
+      "plateNo":"kh 12345",
+      "regDate":"12-12-2019",
+      "fuelType":"1",
+      "status":"معتمدة",
+      "model":"فابيا"
+    },
+    
+        {
+      "id": 3,
+      "type": 2,
+      "plateNo":"kh 12345",
+      "regDate":"12-12-2019",
+      "fuelType":"1",
+      "status":"معتمدة",
+      "model":"فابيا"
+    },
+    
+    
+        {
+      "id": 4,
+      "type": 1,
+      "plateNo":"kh 12345",
+      "regDate":"12-12-2019",
+      "fuelType":"1",
+      "status":"معتمدة",
+      "model":"فابيا"
+    },
+    
+    
+        {
+      "id": 5,
+      "type": 4,
+      "plateNo":"kh 12345",
+      "regDate":"12-12-2019",
+      "fuelType":"1",
+      "status":"معتمدة",
+      "model":"فابيا"
+    },
+    
+    
+        {
+      "id": 6,
+      "type": 1,
+      "plateNo":"kh 12345",
+      "regDate":"12-12-2019",
+      "fuelType":"1",
+      "status":"معتمدة",
+      "model":"فابيا"
+    },
+    
+        {
+      "id": 7,
+      "type": 2,
+      "plateNo":"kh 12345",
+      "regDate":"12-12-2019",
+      "fuelType":"1",
+      "status":"معتمدة",
+      "model":"فابيا"
     }
+    
   ],
   "profile": {
     "name": "typicode"

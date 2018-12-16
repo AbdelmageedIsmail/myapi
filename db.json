@@ -17,7 +17,7 @@
       "regDate":"12-12-2019",
       "fuelType":"1",
       "status":"معتمدة",
-      "model":"فابيا"
+      "model":"كورولا"
     },
     
         {
@@ -37,8 +37,8 @@
       "plateNo":"kh 12345",
       "regDate":"12-12-2019",
       "fuelType":"1",
-      "status":"معتمدة",
-      "model":"فابيا"
+      "status":"تم رفضها",
+      "model":"ركشة"
     },
     
     
@@ -80,8 +80,8 @@
       "plateNo":"kh 12345",
       "regDate":"12-12-2019",
       "fuelType":"1",
-      "status":"معتمدة",
-      "model":"فابيا"
+      "status":"قيد الإنتظار",
+      "model":"تاتا"
     },
     
     

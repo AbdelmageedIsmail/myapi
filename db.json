@@ -2,7 +2,7 @@
   "vehicels": [
     {
       "id": 1,
-      "type": 1,
+      "type": "صالون",
       "plateNo":"kh 12345",
       "regDate":"12-12-2019",
       "fuelType":"1",
@@ -12,7 +12,7 @@
     
         {
       "id": 2,
-      "type": 1,
+      "type": "صالون",
       "plateNo":"kh 12345",
       "regDate":"12-12-2019",
       "fuelType":"1",
@@ -22,7 +22,7 @@
     
         {
       "id": 3,
-      "type": 2,
+      "type": "صالون",
       "plateNo":"kh 12345",
       "regDate":"12-12-2019",
       "fuelType":"1",
@@ -33,7 +33,7 @@
     
         {
       "id": 4,
-      "type": 1,
+      "type": "ركشة",
       "plateNo":"kh 12345",
       "regDate":"12-12-2019",
       "fuelType":"1",
@@ -44,7 +44,7 @@
     
         {
       "id": 5,
-      "type": 4,
+      "type": "صالون",
       "plateNo":"kh 12345",
       "regDate":"12-12-2019",
       "fuelType":"1",
@@ -55,7 +55,7 @@
     
         {
       "id": 6,
-      "type": 1,
+      "type": "صالون",
       "plateNo":"kh 12345",
       "regDate":"12-12-2019",
       "fuelType":"1",
@@ -65,18 +65,18 @@
     
         {
       "id": 7,
-      "type": 2,
+      "type": "موتر",
       "plateNo":"kh 12345",
       "regDate":"12-12-2019",
       "fuelType":"1",
       "status":"معتمدة",
-      "model":"فابيا"
+      "model":"سوزوكي"
     },
     
     
             {
       "id": 8,
-      "type": 1,
+      "type": "بص",
       "plateNo":"kh 12345",
       "regDate":"12-12-2019",
       "fuelType":"1",
@@ -87,7 +87,7 @@
     
             {
       "id": 9,
-      "type": 1,
+      "type": "صالون",
       "plateNo":"kh 12345",
       "regDate":"12-12-2019",
       "fuelType":"1",
@@ -98,7 +98,7 @@
     
             {
       "id": 10,
-      "type": 1,
+      "type": "صالون",
       "plateNo":"kh 12345",
       "regDate":"12-12-2019",
       "fuelType":"1",
@@ -109,7 +109,7 @@
     
             {
       "id": 11,
-      "type": 1,
+      "type": "صالون",
       "plateNo":"kh 12345",
       "regDate":"12-12-2019",
       "fuelType":"1",
@@ -120,7 +120,7 @@
     
             {
       "id": 12,
-      "type": 1,
+      "type": "صالون",
       "plateNo":"kh 12345",
       "regDate":"12-12-2019",
       "fuelType":"1",
@@ -131,7 +131,7 @@
     
             {
       "id": 13,
-      "type": 1,
+      "type": "صالون",
       "plateNo":"kh 12345",
       "regDate":"12-12-2019",
       "fuelType":"1",
@@ -142,7 +142,7 @@
     
             {
       "id": 14,
-      "type": 1,
+      "type": "صالون",
       "plateNo":"kh 12345",
       "regDate":"12-12-2019",
       "fuelType":"1",
@@ -153,7 +153,7 @@
     
             {
       "id": 15,
-      "type": 1,
+      "type": "صالون",
       "plateNo":"kh 12345",
       "regDate":"12-12-2019",
       "fuelType":"1",
@@ -164,7 +164,7 @@
     
             {
       "id": 16,
-      "type": 1,
+      "type": "صالون",
       "plateNo":"kh 12345",
       "regDate":"12-12-2019",
       "fuelType":"1",

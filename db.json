@@ -1,276 +1,315 @@
 {
-  
-  
-  "profile": {
-    "name": "typicode========",
-    "test":"test"
-  }
-  ,
-    "res": {
-    "responseCode": 
-       {
-    "code": 100,
-    "message":"success"
-  }
-      ,
-    "responseBean":[
-    {
-      "index": 1,
-      "type": "صالون",
-      "plateNo":"kh 12345",
-      "regDate":"12-12-2019",
-      "fuelType":"1",
-      "status":"معتمدة",
-      "model":"فابيا"
-    },
-    
-        {
-      "index": 2,
-      "type": "صالون",
-      "plateNo":"kh 12345",
-      "regDate":"12-12-2019",
-      "fuelType":"1",
-      "status":"معتمدة",
-      "model":"كورولا"
-    },
-    
-        {
-      "index": 3,
-      "type": "صالون",
-      "plateNo":"kh 12345",
-      "regDate":"12-12-2019",
-      "fuelType":"1",
-      "status":"معتمدة",
-      "model":"بي واي دي"
-    },
-    
-    
-        {
-      "index": 4,
-      "type": "ركشة",
-      "plateNo":"kh 12345",
-      "regDate":"12-12-2019",
-      "fuelType":"1",
-      "status":"تم رفضها",
-      "model":"ركشة"
-    },
-    
-    
-        {
-      "index": 5,
-      "type": "صالون",
-      "plateNo":"kh 12345",
-      "regDate":"12-12-2019",
-      "fuelType":"1",
-      "status":"معتمدة",
-      "model":"أكسنت"
-    },
-    
-    
-        {
-      "index": 6,
-      "type": "صالون",
-      "plateNo":"kh 12345",
-      "regDate":"12-12-2019",
-      "fuelType":"1",
-      "status":"معتمدة",
-      "model":"فابيا"
-    },
-    
-        {
-      "index": 7,
-      "type": "موتر",
-      "plateNo":"kh 12345",
-      "regDate":"12-12-2019",
-      "fuelType":"1",
-      "status":"معتمدة",
-      "model":"سوزوكي"
-    },
-    
-    
-            {
-      "index": 8,
-      "type": "بص",
-      "plateNo":"kh 12345",
-      "regDate":"12-12-2019",
-      "fuelType":"1",
-      "status":"قيد الإنتظار",
-      "model":"تاتا"
-    }]
-  }
-  ,
-  "vehicels": [
-    {
-      "index": 1,
-      "type": "صالون",
-      "plateNo":"kh 12345",
-      "regDate":"12-12-2019",
-      "fuelType":"1",
-      "status":"معتمدة",
-      "model":"فابيا"
-    },
-    
-        {
-      "index": 2,
-      "type": "صالون",
-      "plateNo":"kh 12345",
-      "regDate":"12-12-2019",
-      "fuelType":"1",
-      "status":"معتمدة",
-      "model":"كورولا"
-    },
-    
-        {
-      "index": 3,
-      "type": "صالون",
-      "plateNo":"kh 12345",
-      "regDate":"12-12-2019",
-      "fuelType":"1",
-      "status":"معتمدة",
-      "model":"بي واي دي"
-    },
-    
-    
-        {
-      "index": 4,
-      "type": "ركشة",
-      "plateNo":"kh 12345",
-      "regDate":"12-12-2019",
-      "fuelType":"1",
-      "status":"تم رفضها",
-      "model":"ركشة"
-    },
-    
-    
-        {
-      "index": 5,
-      "type": "صالون",
-      "plateNo":"kh 12345",
-      "regDate":"12-12-2019",
-      "fuelType":"1",
-      "status":"معتمدة",
-      "model":"أكسنت"
-    },
-    
-    
-        {
-      "index": 6,
-      "type": "صالون",
-      "plateNo":"kh 12345",
-      "regDate":"12-12-2019",
-      "fuelType":"1",
-      "status":"معتمدة",
-      "model":"فابيا"
-    },
-    
-        {
-      "index": 7,
-      "type": "موتر",
-      "plateNo":"kh 12345",
-      "regDate":"12-12-2019",
-      "fuelType":"1",
-      "status":"معتمدة",
-      "model":"سوزوكي"
-    },
-    
-    
-            {
-      "index": 8,
-      "type": "بص",
-      "plateNo":"kh 12345",
-      "regDate":"12-12-2019",
-      "fuelType":"1",
-      "status":"قيد الإنتظار",
-      "model":"تاتا"
-    },
-    
-    
-            {
-      "index": 9,
-      "type": "صالون",
-      "plateNo":"kh 12345",
-      "regDate":"12-12-2019",
-      "fuelType":"1",
-      "status":"معتمدة",
-      "model":"فابيا"
-    },
-    
-    
-            {
-      "index": 10,
-      "type": "صالون",
-      "plateNo":"kh 12345",
-      "regDate":"12-12-2019",
-      "fuelType":"1",
-      "status":"معتمدة",
-      "model":"فابيا"
-    },
-    
-    
-            {
-      "index": 11,
-      "type": "صالون",
-      "plateNo":"kh 12345",
-      "regDate":"12-12-2019",
-      "fuelType":"1",
-      "status":"معتمدة",
-      "model":"فابيا"
-    },
-    
-    
-            {
-      "index": 12,
-      "type": "صالون",
-      "plateNo":"kh 12345",
-      "regDate":"12-12-2019",
-      "fuelType":"1",
-      "status":"معتمدة",
-      "model":"فابيا"
-    },
-    
-    
-            {
-      "index": 13,
-      "type": "صالون",
-      "plateNo":"kh 12345",
-      "regDate":"12-12-2019",
-      "fuelType":"1",
-      "status":"معتمدة",
-      "model":"فابيا"
-    },
-    
-    
-            {
-      "index": 14,
-      "type": "صالون",
-      "plateNo":"kh 12345",
-      "regDate":"12-12-2019",
-      "fuelType":"1",
-      "status":"معتمدة",
-      "model":"فابيا"
-    },
-    
-    
-            {
-      "index": 15,
-      "type": "صالون",
-      "plateNo":"kh 12345",
-      "regDate":"12-12-2019",
-      "fuelType":"1",
-      "status":"معتمدة",
-      "model":"فابيا"
-    },
-    
-    
-            {
-      "index": 16,
-      "type": "صالون",
-      "plateNo":"kh 12345",
-      "regDate":"12-12-2019",
-      "fuelType":"1",
-      "status":"معتمدة",
-      "model":"فابيا"
-    }
-    
-  ]
+   "profile":{
+      "name":"typicode========",
+      "test":"test"
+   },
+   "success":{
+      "responseCode":{
+         "code":100,
+         "message":"success"
+      }
+   },
+   "fail":{
+      "responseCode":{
+         "code":154,
+         "message":"نموذج للخطأ"
+      }
+   },
+   "addBusiness":{
+      "responseCode":{
+         "code":100,
+         "message":"success"
+      }
+   },
+   "validateTin":{
+      "responseCode":{
+         "code":100,
+         "message":"success"
+      },
+      "responseBean":{
+         "businessName":"اعمال الوفاء التجارية",
+         "address":"الخرطوم الخرطوم",
+         "ownerName":"محمد علي"
+      }
+   },
+   "getActivities":{
+      "responseCode":{
+         "code":100,
+         "message":"success"
+      },
+      "responseBean":[
+         {
+            "code":1,
+            "name":"مخبز"
+         },
+         {
+            "code":2,
+            "name":"مزرعة"
+         }
+      ]
+   },
+   "businesses":{
+      "responseCode":{
+         "code":100,
+         "message":"success"
+      },
+      "responseBean":[
+         {
+            "id":1,
+            "name":"اعمال الهدى",
+            "activityType":"مخبز",
+            "avgConsumption":50
+         },
+         {
+            "id":2,
+            "name":"اعمال الهدى",
+            "activityType":"مخبز",
+            "avgConsumption":50
+         },
+         {
+            "id":3,
+            "name":"اعمال الهدى",
+            "activityType":"مخبز",
+            "avgConsumption":50
+         },
+         {
+            "id":4,
+            "name":"اعمال الهدى",
+            "activityType":"مخبز",
+            "avgConsumption":50
+         },
+         {
+            "id":5,
+            "name":"اعمال الهدى",
+            "activityType":"مخبز",
+            "avgConsumption":50
+         }
+      ]
+   },
+   "res":{
+      "responseCode":{
+         "code":100,
+         "message":"success"
+      },
+      "responseBean":[
+         {
+            "index":1,
+            "type":"صالون",
+            "plateNo":"kh 12345",
+            "regDate":"12-12-2019",
+            "fuelType":"1",
+            "status":"معتمدة",
+            "model":"فابيا"
+         },
+         {
+            "index":2,
+            "type":"صالون",
+            "plateNo":"kh 12345",
+            "regDate":"12-12-2019",
+            "fuelType":"1",
+            "status":"معتمدة",
+            "model":"كورولا"
+         },
+         {
+            "index":3,
+            "type":"صالون",
+            "plateNo":"kh 12345",
+            "regDate":"12-12-2019",
+            "fuelType":"1",
+            "status":"معتمدة",
+            "model":"بي واي دي"
+         },
+         {
+            "index":4,
+            "type":"ركشة",
+            "plateNo":"kh 12345",
+            "regDate":"12-12-2019",
+            "fuelType":"1",
+            "status":"تم رفضها",
+            "model":"ركشة"
+         },
+         {
+            "index":5,
+            "type":"صالون",
+            "plateNo":"kh 12345",
+            "regDate":"12-12-2019",
+            "fuelType":"1",
+            "status":"معتمدة",
+            "model":"أكسنت"
+         },
+         {
+            "index":6,
+            "type":"صالون",
+            "plateNo":"kh 12345",
+            "regDate":"12-12-2019",
+            "fuelType":"1",
+            "status":"معتمدة",
+            "model":"فابيا"
+         },
+         {
+            "index":7,
+            "type":"موتر",
+            "plateNo":"kh 12345",
+            "regDate":"12-12-2019",
+            "fuelType":"1",
+            "status":"معتمدة",
+            "model":"سوزوكي"
+         },
+         {
+            "index":8,
+            "type":"بص",
+            "plateNo":"kh 12345",
+            "regDate":"12-12-2019",
+            "fuelType":"1",
+            "status":"قيد الإنتظار",
+            "model":"تاتا"
+         }
+      ]
+   },
+   "vehicels":[
+      {
+         "index":1,
+         "type":"صالون",
+         "plateNo":"kh 12345",
+         "regDate":"12-12-2019",
+         "fuelType":"1",
+         "status":"معتمدة",
+         "model":"فابيا"
+      },
+      {
+         "index":2,
+         "type":"صالون",
+         "plateNo":"kh 12345",
+         "regDate":"12-12-2019",
+         "fuelType":"1",
+         "status":"معتمدة",
+         "model":"كورولا"
+      },
+      {
+         "index":3,
+         "type":"صالون",
+         "plateNo":"kh 12345",
+         "regDate":"12-12-2019",
+         "fuelType":"1",
+         "status":"معتمدة",
+         "model":"بي واي دي"
+      },
+      {
+         "index":4,
+         "type":"ركشة",
+         "plateNo":"kh 12345",
+         "regDate":"12-12-2019",
+         "fuelType":"1",
+         "status":"تم رفضها",
+         "model":"ركشة"
+      },
+      {
+         "index":5,
+         "type":"صالون",
+         "plateNo":"kh 12345",
+         "regDate":"12-12-2019",
+         "fuelType":"1",
+         "status":"معتمدة",
+         "model":"أكسنت"
+      },
+      {
+         "index":6,
+         "type":"صالون",
+         "plateNo":"kh 12345",
+         "regDate":"12-12-2019",
+         "fuelType":"1",
+         "status":"معتمدة",
+         "model":"فابيا"
+      },
+      {
+         "index":7,
+         "type":"موتر",
+         "plateNo":"kh 12345",
+         "regDate":"12-12-2019",
+         "fuelType":"1",
+         "status":"معتمدة",
+         "model":"سوزوكي"
+      },
+      {
+         "index":8,
+         "type":"بص",
+         "plateNo":"kh 12345",
+         "regDate":"12-12-2019",
+         "fuelType":"1",
+         "status":"قيد الإنتظار",
+         "model":"تاتا"
+      },
+      {
+         "index":9,
+         "type":"صالون",
+         "plateNo":"kh 12345",
+         "regDate":"12-12-2019",
+         "fuelType":"1",
+         "status":"معتمدة",
+         "model":"فابيا"
+      },
+      {
+         "index":10,
+         "type":"صالون",
+         "plateNo":"kh 12345",
+         "regDate":"12-12-2019",
+         "fuelType":"1",
+         "status":"معتمدة",
+         "model":"فابيا"
+      },
+      {
+         "index":11,
+         "type":"صالون",
+         "plateNo":"kh 12345",
+         "regDate":"12-12-2019",
+         "fuelType":"1",
+         "status":"معتمدة",
+         "model":"فابيا"
+      },
+      {
+         "index":12,
+         "type":"صالون",
+         "plateNo":"kh 12345",
+         "regDate":"12-12-2019",
+         "fuelType":"1",
+         "status":"معتمدة",
+         "model":"فابيا"
+      },
+      {
+         "index":13,
+         "type":"صالون",
+         "plateNo":"kh 12345",
+         "regDate":"12-12-2019",
+         "fuelType":"1",
+         "status":"معتمدة",
+         "model":"فابيا"
+      },
+      {
+         "index":14,
+         "type":"صالون",
+         "plateNo":"kh 12345",
+         "regDate":"12-12-2019",
+         "fuelType":"1",
+         "status":"معتمدة",
+         "model":"فابيا"
+      },
+      {
+         "index":15,
+         "type":"صالون",
+         "plateNo":"kh 12345",
+         "regDate":"12-12-2019",
+         "fuelType":"1",
+         "status":"معتمدة",
+         "model":"فابيا"
+      },
+      {
+         "index":16,
+         "type":"صالون",
+         "plateNo":"kh 12345",
+         "regDate":"12-12-2019",
+         "fuelType":"1",
+         "status":"معتمدة",
+         "model":"فابيا"
+      }
+   ]
 }

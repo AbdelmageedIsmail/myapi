@@ -32,33 +32,33 @@
       "responseBean":[
          {
             "id":1,
-            "name":"اعمال الهدى",
+            "name":"مخبز المختار",
             "activityType":"مخبز",
-            "avgConsumption":50
+            "avgConsumption":20
          },
          {
             "id":2,
             "name":"اعمال الهدى",
-            "activityType":"مخبز",
+            "activityType":"مزرعة",
             "avgConsumption":50
          },
          {
             "id":3,
-            "name":"اعمال الهدى",
+            "name":"ثمار العالمية",
             "activityType":"مخبز",
-            "avgConsumption":50
+            "avgConsumption":15
          },
          {
             "id":4,
-            "name":"اعمال الهدى",
-            "activityType":"مخبز",
-            "avgConsumption":50
+            "name":"أعمال الوفاء",
+            "activityType":"مطاحن",
+            "avgConsumption":10
          },
          {
             "id":5,
-            "name":"اعمال الهدى",
+            "name":"قسم السيد التجارية",
             "activityType":"مخبز",
-            "avgConsumption":50
+            "avgConsumption":12
          }
       ]
    },

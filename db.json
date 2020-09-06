@@ -1,16 +1,10 @@
 {
-"sms": [
-    {
-      "id": 1,
-      "targetNumber":"249912312589",
-      "message": "This is the first message"
-    },
-    {
-      "id": 2,
-      "targetNumber":"249999089231",
-      "message": "This is the second message",
-    }
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
   ],
+    
    "success":{
       "responseCode":{
          "code":100,
